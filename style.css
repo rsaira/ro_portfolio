@@ -1,0 +1,68 @@
+.container-fluid {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.navigation {
+  background-color: #006699;
+  font-family: Baumans;
+  font-size: large;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  letter-spacing: 5px;
+}
+.ro {
+  text-shadow: 4px 4px 4px darkgray;
+  font-weight: bold;
+}
+.about {
+  background-color: lightblue;
+  font-family: "Indie Flower";
+  padding-top: 15px;
+  padding-bottom: 15px;
+  letter-spacing: 1px;
+}
+
+.portfolio {
+  background-color: lightgray;
+  font-family: Baumans;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  letter-spacing: 5px;
+}
+
+.gallery {
+    margin: 5px;
+    border: 1px solid darkgray;
+    float: center;
+}
+.gallery:hover {
+    border: 1px solid drakgray;
+    box-shadow: 4px 4px 4px darkgray;
+}
+.desc {
+    padding: 15px;
+    text-align: center;
+    fonst-size: 8px;
+}
+.me {
+  color: white;
+}
+.title {
+  color: white;
+}
+.title:hover {
+    color: lightblue;
+    box-shadow: 2px 2px 2px darkgray;
+}
+.info {
+    padding: 15px 15px 15px 15px;
+    font-size: 25px;
+}
+
+.photo {
+    float: right;
+    margin: 0 0 10px 10px;
+}
